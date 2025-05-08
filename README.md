@@ -1,4 +1,4 @@
-# Drug Prediction
+# Drug Classification
 
 ## Overview
 
